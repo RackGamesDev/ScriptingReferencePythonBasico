@@ -1,0 +1,7 @@
+setup.py
+paquete_super_epico.egg-info/PKG-INFO
+paquete_super_epico.egg-info/SOURCES.txt
+paquete_super_epico.egg-info/dependency_links.txt
+paquete_super_epico.egg-info/top_level.txt
+unpaquete/__init__.py
+unpaquete/paquetico.py
