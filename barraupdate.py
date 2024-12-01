@@ -16,7 +16,7 @@ def baa(m):
         while i<1000000:
             i+=i
         varBarra.set(cont)
-        raiz.update()#update establece un periodo de tiempo para hacer cosas como esta
+        raiz.update()#Update establece un periodo de tiempo para hacer cosas como esta
 if hecho==False:
     baa(100)
 
