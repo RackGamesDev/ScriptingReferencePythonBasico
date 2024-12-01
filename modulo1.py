@@ -1,16 +1,16 @@
-#esto es un modulo, asi una aplicacion se puede dividir en varios scripts.py
+#Esto es un modulo, asi una aplicacion se puede dividir en varios scripts.py
 def sumar (o1,o2):
     print("es" + str(o1+o2))
 def restar (o1,o2):
     print("es" + str(o1-o2))
     
 import pickle  
-#ejemplo de guardado permanente con pickle
+#Ejemplo de guardado permanente con pickle
 class Persona:
     def __init__(self, nombre, edad):
         self.nombre = nombre
         self.edad = edad
-    def __str__(self):#esto devuelve como string un objeto
+    def __str__(self):#Esto devuelve como string un objeto
         return "{} {}".format(self.nombre, self.edad)#habria que poner tantos corchetes como variables necesitadas para guardar
 class ListaPersonas:
     personas=[]
