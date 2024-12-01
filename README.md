@@ -1,2 +1,2 @@
 # ScriptingReferencePython
-Lo basico de python en español con algunas librerias
+Lo básico de Python en español con algunas librerias
